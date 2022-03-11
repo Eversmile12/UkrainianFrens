@@ -1,0 +1,20 @@
+{
+    "description": "Friends standing against the tyranny of Ukraine. A charity NFT sending 100% of our mint to Ukrainian  relief and awareness.", 
+    "external_url": "https://www.ukrainianfrens.com/", 
+    "image": "https://ukrainenfts.s3.filebase.com/49DCE692-DB81-40F5-82F4-579AB18AD785.png?response-content-disposition=inline&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=4B9AAB894F4975C47650%2F20220311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220311T193624Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3f7fb760550a242f2a9842a48cff533790c4a6b14e07262881697b777726a433", 
+    "name": "Ukrainian Frens",
+    "attributes": [ 
+        {
+            "trait_type": "Face", 
+            "value": "Sad"
+          }, 
+          {
+            "trait_type": "Background", 
+            "value": "happy"
+          }, 
+          {
+            "trait_type": "Mouth", 
+            "value": "Surprised"
+          }
+     ]
+  }
